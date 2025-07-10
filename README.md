@@ -1,6 +1,7 @@
 # Task Tracker Project
 Task tracker is a project used to track and manage your tasks. I have build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. 
 Below we have the description of each class, and lastly how to use the app.
+The project URL: https://roadmap.sh/projects/task-tracker
 
 ## Task Class
 This class is the domain model and describes the entity Task. We have 5 properties:
@@ -22,12 +23,12 @@ In this class we also have a variable `counter` of type int. We use this variabl
 ## UI List Class
 To display the tasks list, I have created another class `UIList`. This class has 3 methods:
 1. `ListAll()`: Method for displaying all the content of the tasks list.
-2. `ListInProgress()`: Method for displaying all the tasks whos status is "in-progress"
-3. `ListDone()`: Method for displaying all the tasks whos status is "done"
-4. `ListToDo()`: Method for displaying all the tasks whos status is "todo"
+2. `ListInProgress()`: Method for displaying all the tasks whose status is "in-progress"
+3. `ListDone()`: Method for displaying all the tasks whose status is "done"
+4. `ListToDo()`: Method for displaying all the tasks whose status is "todo"
 
 ## SaveTo Class
-To store the list of tasks in a json file, I have created the class `SaveTo`. This class has to componenets:
+To store the list of tasks in a json file, I have created the class `SaveTo`. This class has two components:
 1. The readonly string `_path` that stores the path to the json file
 2. The method `ToJson(List<Task> data)` that stores the parameter `data` to the json file. In the method first we check if the directory of the file exists, if not it will first create it. The second thing is that we convert the `data` to json format. After that we store it in the file `Tasks.json'. The method that we have used makes sure that the file exists.
 
