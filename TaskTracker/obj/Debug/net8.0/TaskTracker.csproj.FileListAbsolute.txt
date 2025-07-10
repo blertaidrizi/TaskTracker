@@ -1,0 +1,14 @@
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+C:\Users\blert\OneDrive\Desktop\BACKEND\Begginer Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
