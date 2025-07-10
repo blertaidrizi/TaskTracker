@@ -8,6 +8,7 @@ namespace TaskTracker
 {
     public static class UIList
     {
+        //Method for listing all tasks from the task list
         public static void ListAll()
         {
             foreach (var task in Repository.tasks)
@@ -16,6 +17,7 @@ namespace TaskTracker
             }
         }
 
+        //Method for listing all tasks that have the status in-progress
         public static void ListInProgress()
         {
             foreach (var task in Repository.tasks)
@@ -27,6 +29,7 @@ namespace TaskTracker
             }
         }
 
+        //Method for listing all tasks that have the status done
         public static void ListDone()
         {
             foreach(var task in Repository.tasks)
@@ -38,6 +41,7 @@ namespace TaskTracker
             }
         }
 
+        //Method for listing all tasks that have the status todo
         public static void ListToDo()
         {
             foreach (var task in Repository.tasks)
