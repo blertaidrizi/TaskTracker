@@ -47,7 +47,7 @@ To store the list of tasks in a json file, I have created the class `SaveTo`. Th
 
 The main program continuously waits for user commands. It parses the input and calls the appropriate methods from the `Repository` or `UIList` classes.
 
-### 🧠 Input Handling Logic:
+### Input Handling Logic:
 
 - The first word of the input is treated as the command.
 - The second part (if any) is parsed as an index or a filter type.
